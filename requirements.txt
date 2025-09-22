@@ -1,0 +1,42 @@
+# ==============================
+# DS204 Final Project - Requirements
+# ==============================
+
+# --- Core packages ---
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.1
+statsmodels==0.14.2
+
+# --- Data profiling ---
+ydata-profiling==4.8.3
+dataprep==0.4.5
+
+# --- Visualization ---
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# --- Notebook environment ---
+jupyter==1.0.0
+ipykernel==6.29.5
+
+# ==============================
+# Instructions (Windows)
+# ==============================
+# 1. Create a virtual environment:
+#    python -m venv .venv
+#
+# 2. Activate the virtual environment:
+#    .venv\Scripts\activate
+#
+# 3. Upgrade pip, setuptools, and wheel (to avoid common errors):
+#    python -m pip install --upgrade pip setuptools wheel
+#
+# 4. Install the requirements:
+#    pip install -r requirements.txt
+#
+# 5. If you face setuptools issues, run again:
+#    pip install --upgrade setuptools
+#
+# ==============================
